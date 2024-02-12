@@ -12,4 +12,5 @@ Arguments:
 Options:
   -r, --recursive
   -h, --help       Print help
-  -V, --version    Print version```
+  -V, --version    Print version
+```
